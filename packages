@@ -9,7 +9,7 @@ ghostscript-cidfonts
 ghostscript-cmaps
 ghostscript-fonts
 ImageMagick
-ffmpeg5
+ffmpeg7
 git-base
 libxslt
 rsync
