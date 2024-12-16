@@ -1,0 +1,8 @@
+name="qutic-ruby33"
+organization="qutic development"
+brand="Ruby 3.3 Instance"
+version="20230910.1"
+description="qutic ruby 3.3 image"
+homepage="https://github.com/jfqd/mi-qutic-ruby33"
+users="root admin ruby"
+base="1b5e0248-7900-11ee-9147-0b17720e6ab6"
